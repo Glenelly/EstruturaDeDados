@@ -9,7 +9,7 @@ public class Teste3 {
         vetor.adiciona("Elemento 2");
         vetor.adiciona("Elemento 3");
 
-        System.out.println(vetor.busca(1));
+        System.out.println(vetor.busca("Elemento 3"));
 
     }
 }
